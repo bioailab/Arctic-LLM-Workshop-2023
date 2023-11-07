@@ -38,12 +38,11 @@ This two-day workshop provided a blend of hands-on sessions and enlightening lec
 
 The repository is structured as follows:
 
-- `/lectures`: Contains all the slides and reading materials used during the lectures.
+- `/lectures`: Dedicated webpage contains all the slides used during the lectures: [bioailab.org/arcticllmworkshop2023](https://www.bioailab.org/arcticllmworkshop2023).
 - `/hands-on`: Includes the code and datasets used in the hands-on sessions.
-- `/resources`: A collection of additional resources, such as reading lists and links to tools and frameworks.
+<!--- - `/resources`: A collection of additional resources, such as reading lists and links to tools and frameworks. --->
 - `/privateGPT++`: Dedicated resources for setting up and using PrivateGPT++.
-- `/acceleration`: Documentation and scripts for training acceleration on distributed servers.
-- `Dedicated Webpage: [bioailab.org/arcticllmworkshop2023](https://www.bioailab.org/arcticllmworkshop2023)
+<!--- - `/acceleration`: Documentation and scripts for training acceleration on distributed servers. --->
 
 ## Getting Started
 

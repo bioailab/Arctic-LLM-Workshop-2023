@@ -20,3 +20,11 @@ There are three demos available:
 - `General Python Agent`
 
 When run as python files, those that use *streamlit* will prompt you to run it with streamlit run filename.py
+
+## DEMO Contributors
+
+We value the contributions by [Aaron Celeste](https://www.linkedin.com/in/aaron-celeste-a67759105/?originalSubdomain=no) that make this demo tutorial a valuable resource for students.
+
+Visit the contributor's repository: [LLM-Langcahin-Demos.git](https://github.com/aaronvca1/Langchain_Demos)
+
+

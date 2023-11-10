@@ -75,10 +75,10 @@ After training is done, navigate to "Inference" tab, select your LoRA, and play 
 
 Have fun!
 
-## YouTube Walkthough
+## 
 
-https://www.youtube.com/watch?v=yM1wanDkNz8
+## DEMO Contributors
 
-## License
+We value the contributions by [Ronny Paul](https://www.linkedin.com/in/ronny-paul/?originalSubdomain=no) that make this demo tutorial a valuable resource for students.
 
-MIT License
+Visit the contributor's YouTube Walkthrough: [YouTube:LLM_Finetuner-Walkthough](https://www.youtube.com/watch?v=yM1wanDkNz8)
